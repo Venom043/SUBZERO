@@ -4,10 +4,10 @@
 
   <p align="center">
 <a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfrank-ofc?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrank-ofc/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrank-ofc/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrank-ofc/SUBZERO-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/mrfrank-ofc/SUBZERO/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrank-ofc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrank-ofc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrank-ofc/SUBZERO-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -47,13 +47,13 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 
 <p align="center">
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/mrfrank-ofc/SUBZERO"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=SUBZERO-MD&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/mrfrank-ofc/SUBZERO-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/mrfrank-ofc/SUBZERO"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -63,7 +63,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/mrfrank-ofc/SUBZERO-MD/fork"><img title="SUBZERO-MD" src="https://img.shields.io/badge/FORK-SUBZERO-MDh?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/mrfrank-ofc/SUBZERO/fork"><img title="SUBZERO-MD" src="https://img.shields.io/badge/FORK-SUBZERO-MDh?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
@@ -101,7 +101,7 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/mrfrank-ofc/SUBZERO-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/mrfrank-ofc/SUBZERO/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 ----------
 
