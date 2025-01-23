@@ -62,7 +62,7 @@ cmd({
 
     let apiUrl = '';
     if (command === 'tiny' || command === 'tinyurl') {
-      apiUrl = `https://api.giftedtech.web.id/api/tools/tinyurl?apikey=gifted&url=${encodeURIComponent(q)}`;
+      apiUrl = `https://api.dreaded.site/api/shorten-url?url=${encodeURIComponent(q)}`;
     } else {
       apiUrl = `https://api.giftedtech.web.id/api/tools/shorturl?apikey=gifted&url=${encodeURIComponent(q)}`;
     }
