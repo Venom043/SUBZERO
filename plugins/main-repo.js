@@ -272,7 +272,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/mrfrank-ofc/SUBZERO-MD';
+    const githubRepoURL = 'https://github.com/mrfrank-ofc/SUBZERO';
 
     try {
         // Extract username and repo name from the URL
@@ -296,7 +296,7 @@ async (conn, mek, m, { from, reply }) => {
 
 > Don't forget to star & fork the repo🌟🍴
 
-https://github.com/mrfrank-ofc/SUBZERO-MD
+https://github.com/mrfrank-ofc/SUBZERO
 ──────────────────
 ${readMore}
 \`BOT NAME:\`❄️
