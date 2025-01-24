@@ -39,6 +39,7 @@ const axios = require("axios");
 cmd({
   pattern: "play",
   react: '🎵',
+  alias: 'song',
   desc: "Download audio from YouTube by searching for keywords (using API 2).",
   category: "music",
   use: ".play1 <song name or keywords>",
@@ -50,7 +51,7 @@ cmd({
       return reply("*Please provide a song name or keywords to search for.*");
     }
 
-    reply("```Subzero Searching for the song...🔍```");
+    reply("```Subzero Searching for song...🔍```");
 
     const searchResults = await yts(searchQuery);
     if (!searchResults.videos || searchResults.videos.length === 0) {
