@@ -197,7 +197,7 @@ const port = process.env.PORT || 9090;
   const reply = (teks) => {
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
-  const udp = botNumber.split('@')[0];
+/*  const udp = botNumber.split('@')[0];
     const jawad = ('18062212660', '263719647303', '263773820355');
     let isCreator = [udp, jawad, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
@@ -242,7 +242,7 @@ const port = process.env.PORT || 9090;
 						else reply(util.format(err));
 					}
 					return;
-				}
+				}*/
  //================ownerreact==============
     
   if(senderNumber.includes("263719647303")){
