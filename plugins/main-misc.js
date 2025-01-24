@@ -57,7 +57,7 @@ async (conn, mek, m, { from, reply, q, text, isCreator, fromMe }) => {
             case 'status':
                 const currentDmStatus = await getAnti('dm');
                 const currentGcStatus = await getAnti('gc');
-                return reply(`_AntiDelete Status_\n\n*DM AntiDelete:* ${currentDmStatus ? 'Enabled' : 'Disabled'}\n*Group Chat AntiDelete:* ${currentGcStatus ? 'Enabled' : 'Disabled'}`);
+                return reply(`*⛔ AntiDelete Status ⛔*\n\n*👤 Inbox AntiDelete:* ${currentDmStatus ? 'Enabled' : 'Disabled'}\n*👥 Group Chat AntiDelete:* ${currentGcStatus ? 'Enabled' : 'Disabled'}`);
 
             default:
                 const helpMessage = `*⭕ ━❮  \`ANTIDELETE SETTINGS\`  ❯━ ⭕*\n\n
