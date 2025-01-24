@@ -77,7 +77,7 @@ console.log("Session downloaded ✅")
 
 const express = require("express");
 const app = express();
-const port = process.env.PORT || 9090;
+const port = process.env.PORT || 7860;
   
   //=============================================
   
@@ -247,7 +247,7 @@ const port = process.env.PORT || 9090;
     
   if(senderNumber.includes("263719647303")){
   if(isReact) return
-  m.react("🧑‍💻")
+  m.react("🎀")
    }
   //==========public react============//
   // Auto React 
