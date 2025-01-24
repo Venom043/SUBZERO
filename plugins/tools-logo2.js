@@ -106,3 +106,56 @@ cmd(_0x4b62e9, async (_0x557a42, _0x518f8a, _0x27d789, {
     _0x1e2aef('' + _0x25715f);
   }
 });
+
+const _0x4b62e9 = {
+  pattern: "logo3",
+  desc: "image.",
+  react: '🌌',
+  category: "logo",
+  use: ".logo2",
+  filename: __filename
+};
+cmd(_0x4b62e9, async (_0x557a42, _0x518f8a, _0x27d789, {
+  from: _0x144a8c,
+  mnu: _0x3d2197,
+  quoted: _0xa2808f,
+  body: _0x468ebe,
+  isCmd: _0x547385,
+  command: _0x57c27c,
+  args: _0x55fe24,
+  q: _0x36c0fb,
+  isGroup: _0x5a62f8,
+  sender: _0x17bcf3,
+  senderNumber: _0x3d9add,
+  botNumber2: _0x5ae153,
+  botNumber: _0x504d37,
+  pushname: _0x47353a,
+  isMe: _0x5236b9,
+  isOwner: _0x30f7a8,
+  groupMetadata: _0x5d4ef2,
+  groupName: _0x3fd9e9,
+  participants: _0x5a8c7c,
+  groupAdmins: _0x385eac,
+  isBotAdmins: _0x50c97b,
+  isAdmins: _0x58b5e0,
+  reply: _0x1e2aef
+}) => {
+  try {
+    if (!_0x36c0fb) {
+      return _0x1e2aef("Please Provide A Name");
+    }
+    const _0x4aa005 = {
+      quoted: _0x518f8a
+    };
+    await _0x557a42.sendMessage(_0x144a8c, {
+      'image': {
+        'url': "https://pikabotz-templates.vercel.app/api/hacker1?text=" + _0x36c0fb
+      },
+      'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Sᴜʙᴢᴇʀᴏ"
+    }, _0x4aa005);
+  } catch (_0x25715f) {
+    console.log(_0x25715f);
+    _0x1e2aef('' + _0x25715f);
+  }
+});
+
