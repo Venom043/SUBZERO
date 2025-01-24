@@ -255,6 +255,9 @@ https://github.com/mrfrank-ofc/SUBZERO-MD
 
 
 
+const packageJson = require('./package.json');
+
+const version = packageJson.version;
 
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
@@ -301,6 +304,9 @@ https://github.com/mrfrank-ofc/SUBZERO
 ${readMore}
 \`BOT NAME:\`❄️
 > ${repoData.name}
+
+\`VERSION\`
+> ${version}
 
 \`OWNER NAME:\`👨‍💻
 > ${repoData.owner.login}
