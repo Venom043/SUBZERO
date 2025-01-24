@@ -1,14 +1,14 @@
 {
   "name": "SUBZERO-MD",
   "description": "A rich whatsapp bot by Mr Frank",
-  "logo": "https://i.ibb.co/YkJyMRb/mrfrankofc.jpg",
+  "logo": "https://raw.githubusercontent.com/JawadYTX/KHAN-DATA/refs/heads/main/logo/KHAN.png",
   "keywords": ["subzero-bot"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the your SubZero session-id here.",
+      "description": "Put the session-id here.",
       "required": true,
       "value": ""
     },  
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://i.ibb.co/fSP7Yr2/mrfrankofc.jpg"
+      "value": "https://files.catbox.moe/x3bdmi.jpg"
     }, 
     
     "LIVE_MSG": {
@@ -54,7 +54,7 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
@@ -79,7 +79,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SUBZERO VIEWED YOUR STATUS 🧸*"
+      "value": "*SUBZERO VIEWED YOUR STATUS 🤖*"
     }, 
 
     "OWNER_NAME": {
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 』"
+      "value": "『 sᴜʙᴢᴇʀᴏ - ᴍᴅ 』"
 
       }, 
 
@@ -118,7 +118,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ*"
     },
 
       "DELETE_LINKS": {
@@ -161,7 +161,7 @@
     "READ_CMD": {
       "description": "make it true if want mark commands as read.",
       "required": false,
-      "value": "true"
+      "value": "false"
     }, 
 
     "READ_MESSAGE": {
