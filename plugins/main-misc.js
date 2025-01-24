@@ -64,7 +64,7 @@ async (conn, mek, m, { from, reply, q, text, isCreator, fromMe }) => {
 ➪ \`\`\`.antidelete on\`\`\`\n - Reset AntiDelete for all chats (disabled by default)\n
 ➪ \`\`\`.antidelete off gc\`\`\`\n - Disable AntiDelete for Group Chats\n
 ➪ \`\`\`.antidelete off dm\`\`\`\n - Disable AntiDelete for Direct Messages\n
-➪ \`\`.antidelete set gc\`\`\`\n - Toggle AntiDelete for Group Chats\n
+➪ \`\`\`.antidelete set gc\`\`\`\n - Toggle AntiDelete for Group Chats\n
 ➪ \`\`\`.antidelete set dm\`\`\`\n - Toggle AntiDelete for Direct Messages\n
 ➪ \`\`\`.antidelete all\`\`\`\n - Enable AntiDelete for all chats\n
 ➪ \`\`\`.antidelete status\`\`\`\n - Check current AntiDelete status`;
