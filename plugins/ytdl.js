@@ -39,7 +39,6 @@ const axios = require("axios");
 cmd({
   pattern: "play",
   react: '🎵',
-  alias: 'song',
   desc: "Download audio from YouTube by searching for keywords (using API 2).",
   category: "music",
   use: ".play1 <song name or keywords>",
