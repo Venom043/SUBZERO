@@ -1,21 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const { isJidBroadcast, isJidGroup, isJidNewsletter } = require('@whiskeysockets/baileys');
 const fs = require('fs/promises')
 const path = require('path')
